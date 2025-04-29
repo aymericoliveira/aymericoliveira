@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![banner_readme](banner_aymeric.png)
 
 ## Salut, moi c'est Aymeric 👋
 
