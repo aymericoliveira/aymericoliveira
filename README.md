@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 
 
 ⭐ N'hésite pas à suivre mes projets ou à venir discuter ! ⭐
+
+![App Screenshot](https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,html,css,ruby,git,github,ansible,wordpress,vscode,xd,figma,notion)
