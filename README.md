@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 
 ## 🚀 Ce que je fais en ce moment
+- Projet de fin d'année refonte complète d'un SI Paris et Lyon. 
 - Création d'un lab afin d’automatiser le déploiement des VMs avec **Vagrant** pour la gestion des VMs et **Ansible** pour leur configuration.
 - Création d'un **Home Lab complet** pour m'entraîner aux environnements serveurs et réseaux
 - Étude pour la certification **CCNA** et d'autres certifications IT à venir
