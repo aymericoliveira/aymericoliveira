@@ -28,13 +28,21 @@ Here are some ideas to get you started:
 - Création d'un lab afin d’automatiser le déploiement des VMs avec **Vagrant** pour la gestion des VMs et **Ansible** pour leur configuration.
 - Création d'un **Home Lab complet** pour m'entraîner aux environnements serveurs et réseaux
 - Étude pour la certification **CCNA** et d'autres certifications IT à venir
-- Développement de projets en **Linux**, **Windows Server**, **Virtualisation**, et **Cloud**
-
+- **MOOC de l'ANSSI** > https://secnumacademie.gouv.fr/
 
 ## 📈 Mes projets récents
 - **HOME_LAB_vSphere** - Installation d'un cluster VMware pour laboratoires personnels [https://github.com/aymericoliveira/HOME_LAB_vSphere]
-- **TP Home Lab Cisco** - Configuration d'un environnement réseau Cisco de test  [https://github.com/aymericoliveira/TP_NAT_PAT_Private_DMZ_GRE_over_IPSec_Tunnel_] [https://github.com/aymericoliveira/LAB_LAN_DESIGN_CISCO]
+- **Hackaton** - Mise en place de la haute disponibilité des firewalls et de sécuriser l’infrastructure réseau. [https://github.com/aymericoliveira/Hackaton_TAN_Consulting]
 - **Formation continue** sur Git, Docker, cybersécurité, et infrastructures réseaux
+
+## 🎯 Prochaines compétences visées
+Dans les semaines à venir, je vais approfondir mes connaissances sur :
+
+- **Kubernetes** : orchestration de conteneurs 
+- **Docker** : perfectionnement en containerisation
+- **Jenkins** : automatisation des déploiements (CI/CD)
+- **Terraform**: déploiement d’infrastructures Cloud as Code
+- **Azure** : gestion et sécurisation des ressources Cloud
 
 
 ## 📫 Me contacter
@@ -45,4 +53,4 @@ Here are some ideas to get you started:
 
 ⭐ N'hésite pas à suivre mes projets ou à venir discuter ! ⭐
 
-![App Screenshot](https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,html,css,ruby,git,github,ansible,wordpress,vscode,xd,figma,notion)
+![App Screenshot](https://skillicons.dev/icons?i=windows,linux,debian,kali,ubuntu,html,css,ruby,git,github,ansible,wordpress,vscode,xd,figma,notion)
